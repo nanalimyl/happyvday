@@ -47,7 +47,7 @@ function generateMessage(noCount) {
     "Sure you don't want noodles?",
     " 🚨 heya 🚨  hiya 🚨 aiya !!!",
     "No more noodles...",
-    "hehe one last chance beeboo",
+    "hehe one last chance beeboo 🤖",
   ];
 
   const messageIndex = Math.min(noCount, messages.length - 1);
