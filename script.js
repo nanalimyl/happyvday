@@ -43,11 +43,11 @@ function resizeYesButton() {
 function generateMessage(noCount) {
   const messages = [
     "No",
-    "真的吗?",
+    "真的吗?我正在看",
     "Sure you don't want noodles?",
-    " 🚨  🚨  🚨 ",
+    " 🚨 heya 🚨  hiya 🚨 aiya !!!",
     "No more noodles...",
-    "hehe one last chance beeboo.",
+    "hehe one last chance beeboo",
   ];
 
   const messageIndex = Math.min(noCount, messages.length - 1);
